@@ -14,6 +14,7 @@ Websites shared by the teacher.
 
 ### Websites for FREE templates
 ---
++ [color paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 + [cruip](https://cruip.com/)  
 + [bootstrap templates 1](https://mdbootstrap.com/freebies/)  
 + [bootstrap templates 2](http://www.mashup-template.com/templates.html)  
