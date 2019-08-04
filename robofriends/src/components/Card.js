@@ -1,5 +1,4 @@
 import React from 'react';
-import 'tachyons'
 
 
 function Card({id, name, email}) {
