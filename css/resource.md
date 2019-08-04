@@ -22,6 +22,7 @@ Websites shared by the teacher.
 + [crative tim](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price)    
 + [interfacer](https://interfacer.xyz/) (ex: click [undraw](https://undraw.co/illustrations) to show great pictures)
 + [codepen](https://codepen.io) (ex: [ptcg card](https://codepen.io/simeydotme/pen/PrQKgo))
++ [pattern gallery](https://leaverou.github.io/css3patterns/)
 
 ### Websites for good landing picture
 ---
