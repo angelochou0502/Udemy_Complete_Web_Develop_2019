@@ -12,3 +12,13 @@ Websites shared by the teacher.
 + [You Dont Know JS] (https://github.com/getify/You-Dont-Know-JS)
 + [JS info] (http://javascript.info/)
 + [JS Doc] (http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#object)
+
+### API
+---
++ [funny API](https://apilist.fun/)
++ [IBM speech2text API](https://www.ibm.com/watson/services/speech-to-text/)
++ [Public API](https://public-apis.xyz/)
+
+### JS templates
+---
++ [particles.js](https://vincentgarreau.com/particles.js/)
